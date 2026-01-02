@@ -4,6 +4,14 @@
     box-sizing: border-box;
 }
 
+section {
+    width: 100%;
+}
+
+#sec-1 {
+    background-color: #452829;
+}
+
 .flex {
     display: flex;
 }
