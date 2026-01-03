@@ -89,3 +89,28 @@ section {
 .menu img {
     width: 100%;
 }
+
+.menu figcaption {
+    font-size: 1.3em;
+    font-weight: bold;
+}
+
+#sec-3 {
+    background-color: #F3E8DF;
+    color: #57595B;
+}
+
+.quote {
+    padding: 10em;
+}
+
+.quote blockquote {
+    font-size: 2.2em;
+    text-align: justify;
+}
+
+.quote p {
+    font-size: 2.5em;
+    text-align: right;
+    margin: 0.2em 0;
+}
