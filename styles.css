@@ -114,3 +114,26 @@ section {
     text-align: right;
     margin: 0.2em 0;
 }
+
+#sec-4 {
+    padding: 5em;
+}
+
+.contact {
+    width: 70%;
+    padding: 1em 2em;
+    background-color: #452829;
+    border-radius: 30px;
+    color: white;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.contact button {
+    height: 40px;
+    padding: 0 1em;
+    background-color: #F3E8DF;
+    color: #452829;
+    border: none;
+    border-radius: 20px;
+}
