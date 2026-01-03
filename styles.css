@@ -12,6 +12,59 @@ section {
     background-color: #452829;
 }
 
+.container {
+    width: 900px;
+    margin: 0 auto;
+}
+
 .flex {
     display: flex;
+}
+
+.nav {
+    padding: 2em 0;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav h1 {
+    color: #E8D1C5;
+    font-size: 1.5rem;
+}
+
+.nav ul li {
+    list-style: none;
+    color: #E8D1C5;
+    margin: 0.5em 0.8em;
+    font-size: 1.2rem;
+}
+
+.about {
+    justify-content: space-between;
+    padding-bottom: 3.5em;
+}
+
+.about h1 {
+    font-size: 3rem;
+    color: #F3E8DF;
+    margin-bottom: 0.5em;
+}
+
+.about p {
+    color: white;
+    padding-right: 3em;
+}
+
+.about button {
+    margin-top: 2.3em;
+    padding: 0.7em;
+    border-radius: 10px;
+    border: none;
+    background-color: #E8D1C5;
+    color: #452829;
+}
+
+.about img {
+    width: 50%;
+    border-radius: 20px;
 }
