@@ -137,3 +137,11 @@ section {
     border: none;
     border-radius: 20px;
 }
+
+footer {
+    background-color: #57595B;
+    color: white;
+    font-size: 1.2em;
+    padding: 2em;
+    text-align: center;
+}
