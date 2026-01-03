@@ -68,3 +68,24 @@ section {
     width: 50%;
     border-radius: 20px;
 }
+
+#sec-2 {
+    color: #452829;
+    padding: 4em 0;
+    text-align: center;
+}
+
+#sec-2 h2 {
+    font-size: 2rem;
+    margin-bottom: 3em;
+}
+
+.menu {
+    justify-content: space-around;
+    gap: 1em;
+    align-items: center;
+}
+
+.menu img {
+    width: 100%;
+}
